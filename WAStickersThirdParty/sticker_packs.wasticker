@@ -1,0 +1,51 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "wechatstickers",
+        "name": "wechat",
+        "publisher": "Cho Yin",
+        "tray_image_file" : "cry_tray.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "cry.png",
+            "emojis": ["😭","💧"]
+        },
+        {
+        "image_file": "cry.png",
+        "emojis": ["😭","💧"]
+        },
+        {
+        "image_file": "cry.png",
+        "emojis": ["😭","💧"]
+        }
+        ]
+    },
+    {
+    "identifier": "wechatstickers2",
+    "name": "wechat2",
+    "publisher": "Cho Yin",
+    "tray_image_file" : "cry_tray.png",
+    "publisher_website" : "",
+    "privacy_policy_website" : "",
+    "license_agreement_website" : "",
+    "stickers": [
+    {
+    "image_file": "cry.png",
+    "emojis": ["😭","💧"]
+    },
+    {
+    "image_file": "cry.png",
+    "emojis": ["😭","💧"]
+    },
+    {
+    "image_file": "cry.png",
+    "emojis": ["😭","💧"]
+    }
+    ]
+    }]
+}
